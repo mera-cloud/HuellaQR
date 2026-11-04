@@ -9,7 +9,7 @@
   }
 
   body {
-    @apply bg-cream-50 font-sans text-forest-700 leading-normal antialiased;
+    @apply bg-sage-50 font-sans text-forest-700 leading-normal antialiased;
   }
 
   h1,
