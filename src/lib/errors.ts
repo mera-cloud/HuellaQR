@@ -8,6 +8,7 @@ const KNOWN_MESSAGES: Array<[string, string]> = [
   ['pet_not_found', 'Esta mascota ya no está disponible para recibir reportes.'],
   ['invalid_found_at', 'La fecha del hallazgo no es válida.'],
   ['invalid_photo', 'La fotografía no es válida. Vuelve a subirla.'],
+  ['rate_limit_exceeded', 'Esta mascota ya recibió muchos reportes en la última hora. Espera unos minutos e inténtalo de nuevo.'],
   ['requiere configuración adicional', 'Tu cuenta requiere configuración adicional antes de poder usarse.'],
 ];
 
